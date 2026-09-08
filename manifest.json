@@ -1,0 +1,74 @@
+{
+  "launcherVersion": "1.1.0",
+  "news": [
+    {
+      "id": "1",
+      "title": "¡Bienvenido a FlexMine Launcher!",
+      "date": "11 de Agosto, 2026",
+      "image": "./images/hero_banner.png",
+      "summary": "Tu launcher personalizado de Minecraft con aceleración de FPS, gestión de modpacks y estética de juego moderna."
+    },
+    {
+      "id": "2",
+      "title": "Actualización de Rendimiento & Shaders",
+      "date": "10 de Agosto, 2026",
+      "image": "./images/pvp_arena.png",
+      "summary": "Nuevos mods de rendimiento Sodium, Iris Shaders e Indium integrados. Todo se sincroniza automáticamente al pulsar Iniciar."
+    },
+    {
+      "id": "3",
+      "title": "Exploración de la Dimensión Nether",
+      "date": "8 de Agosto, 2026",
+      "image": "./images/nether_fortress.png",
+      "summary": "Nuevas misiones y loot exclusivo en los bastiones y fortalezas del Nether con optimización de memoria RAM."
+    }
+  ],
+  "modpacks": [
+    {
+      "id": "fabulously-optimized",
+      "name": "Fabulously Optimized",
+      "version": "0.19.3",
+      "mcVersion": "1.21.4",
+      "loader": {
+        "type": "fabric",
+        "version": "0.16.10"
+      },
+      "icon": "./images/mc_1_21.png",
+      "banner": "./images/hero_banner.png",
+      "description": "Modpack centrado en la máxima optimización de FPS (Sodium, Iris, Lithium, FerriteCore) para Minecraft 1.21.4.",
+      "author": "robotkoer / FlexMine",
+      "memoryMin": 4096,
+      "files": []
+    },
+    {
+      "id": "vanilla-1-21-4",
+      "name": "Minecraft Vanilla 1.21.4",
+      "version": "1.0.0",
+      "mcVersion": "1.21.4",
+      "loader": {
+        "type": "vanilla"
+      },
+      "icon": "./images/mc_1_21.png",
+      "banner": "./images/hero_banner.png",
+      "description": "Minecraft 1.21.4 puro y oficial de Mojang sin modificaciones.",
+      "author": "Mojang Studios",
+      "memoryMin": 3072,
+      "files": []
+    },
+    {
+      "id": "vanilla-1-20-4",
+      "name": "Minecraft Vanilla 1.20.4",
+      "version": "1.0.0",
+      "mcVersion": "1.20.4",
+      "loader": {
+        "type": "vanilla"
+      },
+      "icon": "./images/mc_1_20.png",
+      "banner": "./images/pvp_arena.png",
+      "description": "Minecraft 1.20.4 oficial, excelente estabilidad para servidores multijugador y PvP.",
+      "author": "Mojang Studios",
+      "memoryMin": 3072,
+      "files": []
+    }
+  ]
+}
