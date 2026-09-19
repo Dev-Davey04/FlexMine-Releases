@@ -1,6 +1,13 @@
 {
-  "launcherVersion": "1.1.0",
+  "launcherVersion": "1.5.0",
   "news": [
+    {
+      "id": "0",
+      "title": "¡Minecraft 26.3 ya está en FlexiMine!",
+      "date": "17 de Septiembre, 2026",
+      "image": "./images/hero_banner.png",
+      "summary": "La nueva Game Drop 26.3 disponible con Fabric Loader 0.19.5 y los mods de optimización Sodium, Iris e Indium sincronizados automáticamente."
+    },
     {
       "id": "1",
       "title": "¡Bienvenido a FlexMine Launcher!",
@@ -24,6 +31,22 @@
     }
   ],
   "modpacks": [
+    {
+      "id": "flexmine-26-3-optimized",
+      "name": "FlexiMine 26.3 Optimizado",
+      "version": "1.0.0",
+      "mcVersion": "26.3",
+      "loader": {
+        "type": "fabric",
+        "version": "0.19.5"
+      },
+      "icon": "./images/mc_1_21.png",
+      "banner": "./images/hero_banner.png",
+      "description": "Minecraft 26.3 con Fabric Loader 0.19.5 y los mods de optimización de máximo FPS (Sodium, Iris, Lithium, FerriteCore) sincronizados al pulsar Iniciar.",
+      "author": "FlexMine",
+      "memoryMin": 4096,
+      "files": []
+    },
     {
       "id": "fabulously-optimized",
       "name": "Fabulously Optimized",
