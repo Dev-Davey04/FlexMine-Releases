@@ -1,6 +1,13 @@
 {
-  "launcherVersion": "1.5.0",
+  "launcherVersion": "1.16.0",
   "news": [
+    {
+      "id": "4",
+      "title": "FlexiMine 1.16.0 ya está disponible",
+      "date": "20 de Octubre, 2026",
+      "image": "./images/hero_banner.png",
+      "summary": "Crash Doctor, centro de descargas, actualización de mods con reversión, ajustes por perfil y temas personalizados."
+    },
     {
       "id": "0",
       "title": "¡Minecraft 26.3 ya está en FlexiMine!",
