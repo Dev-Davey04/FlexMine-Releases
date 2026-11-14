@@ -1,7 +1,7 @@
 {
   "id": "new-generation",
   "name": "New Generation",
-  "version": "1f7c8b926b59",
+  "version": "e24f1f55658a",
   "mcVersion": "1.20.1",
   "loader": {
     "type": "forge",
@@ -760,12 +760,6 @@
       "size": 2397175
     },
     {
-      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
-      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
-      "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd",
-      "size": 1039047
-    },
-    {
       "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
       "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
       "sha1": "50e1407869ef0e909e3bdda9328b8bd7db03fdc0",
@@ -890,12 +884,6 @@
       "url": "https://cdn.modrinth.com/data/9d9Bkqva/versions/rdafCGDn/legendarymonsters-2.0.6%20MC%201.20.1.jar",
       "sha1": "fb5f8c99c39581f78deeaa4d6919dcdc89e71ee6",
       "size": 32223179
-    },
-    {
-      "path": "mods/lionfishapi-2.7.jar",
-      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/G3m5juql/lionfishapi-2.7.jar",
-      "sha1": "73d64e7acbea5934617172a5210c1d2a53443812",
-      "size": 122522
     },
     {
       "path": "mods/lionfishapi-3.0.jar",
