@@ -1,5 +1,5 @@
 {
-  "launcherVersion": "1.16.0",
+  "launcherVersion": "1.19.0",
   "news": [
     {
       "id": "4",
@@ -100,5 +100,6 @@
       "memoryMin": 3072,
       "files": []
     }
-  ]
+  ],
+  "serverPackUrl": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/pack.json"
 }
