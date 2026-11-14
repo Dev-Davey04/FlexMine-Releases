@@ -1,0 +1,1339 @@
+{
+  "id": "new-generation",
+  "name": "New Generation",
+  "version": "1f7c8b926b59",
+  "mcVersion": "1.20.1",
+  "loader": {
+    "type": "forge",
+    "version": "47.4.28"
+  },
+  "baseUrl": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/",
+  "files": [
+    {
+      "path": "mods/AME's Mobs 1.4.1 - 1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/AME's%20Mobs%201.4.1%20-%201.20.1.jar",
+      "sha1": "6f0b9b356f5c0973261831d4ff20177e3b4e5b29",
+      "size": 4939981
+    },
+    {
+      "path": "mods/ATi Structures V1.4.7.jar",
+      "url": "https://cdn.modrinth.com/data/bii8qPSt/versions/mBQ2zW52/ATi%20Structures%20V1.4.7.jar",
+      "sha1": "9ee67dd3438b00c7b646d49e53c7cbcbbc31a044",
+      "size": 6566961
+    },
+    {
+      "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/xqigG9AR/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+      "sha1": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
+      "size": 208850
+    },
+    {
+      "path": "mods/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/YOYpWGZg/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+      "sha1": "61f0bcbfd404de4aeb0627b5b83a72d069fb1825",
+      "size": 53432741
+    },
+    {
+      "path": "mods/Ancient-Obelisks-1.20.1-1.2.8.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Ancient-Obelisks-1.20.1-1.2.8.jar",
+      "sha1": "5a1b8bb6421a840d98996648be619100fedc7eff",
+      "size": 358518
+    },
+    {
+      "path": "mods/Aquaculture-1.20.1-2.5.7.jar",
+      "url": "https://cdn.modrinth.com/data/Vl1uNAuy/versions/wNiFoROs/Aquaculture-1.20.1-2.5.7.jar",
+      "sha1": "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
+      "size": 601839
+    },
+    {
+      "path": "mods/Armor of the Ages-forge-1.20.1-1.3.16.jar",
+      "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/Bc9cFnLg/Armor%20of%20the%20Ages-forge-1.20.1-1.3.16.jar",
+      "sha1": "47eb5a14e912eca35817c3de7f9877a59c4712d9",
+      "size": 544410
+    },
+    {
+      "path": "mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/ihWybkI9/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "sha1": "76d6b2d0f2a3c9842587ad20666ba419cd8c1efa",
+      "size": 19499
+    },
+    {
+      "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
+      "size": 468517
+    },
+    {
+      "path": "mods/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+      "sha1": "15072eb39c35a3f845d4bb04690d4b7f1808a980",
+      "size": 21800460
+    },
+    {
+      "path": "mods/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/1UfKorj6/CrashAssistant-forge-1.19-1.20.1-1.11.12.jar",
+      "sha1": "b309bd4803d5fcf27397b5ea60bbe4bb332bc809",
+      "size": 3503813
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ChKayKur/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+      "sha1": "f8b65310e0183630dd00c1ade12f9b6ecd243287",
+      "size": 1144290
+    },
+    {
+      "path": "mods/CreepingWoods-forge-1.20.1-2.3.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/CreepingWoods-forge-1.20.1-2.3.jar",
+      "sha1": "73d4df0a95b51dac48bbe66f14f3233d6ce0001f",
+      "size": 9153233
+    },
+    {
+      "path": "mods/DaV DeeperAndDarker 1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/dDLO8v94/versions/vjcSPXlH/DaV%20DeeperAndDarker%201.20.1.jar",
+      "sha1": "6b9ed7c4c518a8d4b411f80d854702e9500adf4b",
+      "size": 506196
+    },
+    {
+      "path": "mods/Divine_Weaponry_v1.7_1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Divine_Weaponry_v1.7_1.20.1.jar",
+      "sha1": "63b8a33925282989639a0fc1a30e15d727476775",
+      "size": 649912
+    },
+    {
+      "path": "mods/Dodos Mobs 1.0.1 beta.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Dodos%20Mobs%201.0.1%20beta.jar",
+      "sha1": "7aca799fe6c25d0fc6bdbbdf0515b13be737413d",
+      "size": 1197246
+    },
+    {
+      "path": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
+      "url": "https://cdn.modrinth.com/data/q0rRg4lH/versions/MJrfb4gi/Dungeon%20Crawl-1.20.1-2.3.15.jar",
+      "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866",
+      "size": 758123
+    },
+    {
+      "path": "mods/Dungeon Now Loading-forge-1.20.1-2.2.jar",
+      "url": "https://cdn.modrinth.com/data/vZoqTqwv/versions/ejP7ljqP/Dungeon%20Now%20Loading-forge-1.20.1-2.2.jar",
+      "sha1": "6cb812d282be790ebb9314a5b6e6c610ce19d44a",
+      "size": 85065508
+    },
+    {
+      "path": "mods/Dungeon-Realm-1.20.1-1.1.16.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Dungeon-Realm-1.20.1-1.1.16.jar",
+      "sha1": "da1946e0fcd4a6f576e3fc72a352439459a5342b",
+      "size": 4278094
+    },
+    {
+      "path": "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/6hQpx5Tc/DungeonsArise-1.20.x-2.1.58-release.jar",
+      "sha1": "30b4520e4fab40a6bb6153a2c72e34bcb721f0a5",
+      "size": 8762342
+    },
+    {
+      "path": "mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "url": "https://cdn.modrinth.com/data/ZsrrjDbP/versions/Ak226ElN/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+      "sha1": "0390b912cc5534bbe0f01853337d777453ca08de",
+      "size": 248169
+    },
+    {
+      "path": "mods/DynamicTrees-1.20.1-1.4.11.jar",
+      "url": "https://cdn.modrinth.com/data/vdjF5PL5/versions/iGSXZxgo/DynamicTrees-1.20.1-1.4.11.jar",
+      "sha1": "574c52edcd3bc93395a59947f96b4d95a648200f",
+      "size": 3761925
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/SiIpcZzM/FarmersDelight-1.20.1-1.3.4.jar",
+      "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
+      "size": 3311051
+    },
+    {
+      "path": "mods/Gobber2-Forge-1.20.1-2.8.9.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Gobber2-Forge-1.20.1-2.8.9.jar",
+      "sha1": "6a5a8164526940325355bda87b89045ce3f4eeef",
+      "size": 567050
+    },
+    {
+      "path": "mods/IMM v1.3.2-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/D0BAyuxZ/versions/nGfmRw3s/IMM%20v1.3.2-1.20.1.jar",
+      "sha1": "94c65bb9dc2c0710d46fc12765bdc73cca74ffaa",
+      "size": 945916
+    },
+    {
+      "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+      "size": 134551
+    },
+    {
+      "path": "mods/Incendium_1.20.x_v5.3.5.jar",
+      "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar",
+      "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+      "size": 4638945
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "size": 553487
+    },
+    {
+      "path": "mods/JadeAddons-1.20.1-Forge-5.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/l9IrZYLt/JadeAddons-1.20.1-Forge-5.5.1.jar",
+      "sha1": "c4339eb3ef0c4728cb511efe60726653a35c7a0d",
+      "size": 91754
+    },
+    {
+      "path": "mods/JustEnoughGuns-0.14.5-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/n1EbSfq3/versions/IPnQUKQX/JustEnoughGuns-0.14.5-1.20.1.jar",
+      "sha1": "056118ab84f5463429af75b962c342c5be02bd5a",
+      "size": 10315504
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-3.31.jar",
+      "url": "https://cdn.modrinth.com/data/46KJle7n/versions/C3H0azzB/L_Enders_Cataclysm-3.31.jar",
+      "sha1": "4f1165cb39521292e826b471b4808bb89f0f4f3f",
+      "size": 73916104
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "url": "https://cdn.modrinth.com/data/atHH8NyV/versions/JhxD2e6J/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "sha1": "7d83a56572d333ea352706872f565b8b8537085c",
+      "size": 55258
+    },
+    {
+      "path": "mods/Library_of_Exile-1.20.1-2.1.14.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Library_of_Exile-1.20.1-2.1.14.jar",
+      "sha1": "a3c6503dc78cf726f63c156c5067d972546b6c30",
+      "size": 685644
+    },
+    {
+      "path": "mods/M'TEG-1.1.2-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Mulzyv9p/versions/6HW7QBDU/M%27TEG-1.1.2-1.20.1.jar",
+      "sha1": "ddc1df1941857427bee1ca34a022ca04af70015e",
+      "size": 2010086
+    },
+    {
+      "path": "mods/MRU-1.0.4+1.20.1+forge.jar",
+      "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/nKL4LKzM/MRU-1.0.4%2B1.20.1%2Bforge.jar",
+      "sha1": "c92d6d7cf2ffa333d64752edcde2b3c5a3e6edab",
+      "size": 287393
+    },
+    {
+      "path": "mods/MineTraps-1.20.2-(v.2.3.0a).jar",
+      "url": "https://cdn.modrinth.com/data/1TVTyRG9/versions/lOxSW86d/MineTraps-1.20.2-%28v.2.3.0a%29.jar",
+      "sha1": "98f60226aa17e609aa6877f8ba6f400f09787999",
+      "size": 174514
+    },
+    {
+      "path": "mods/Mine_and_Slash-1.20.1-6.4.13.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/Mine_and_Slash-1.20.1-6.4.13.jar",
+      "sha1": "56d5aa4e0bdf7da7e790ed541e47dcce1a6cdc6f",
+      "size": 9068106
+    },
+    {
+      "path": "mods/MobCaptains-v3.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/7tKn1fLd/versions/YcFz1tcf/MobCaptains-v3.1.2.jar",
+      "sha1": "f1c9f05bcc424348efe11e7d95c0a6875ba9684f",
+      "size": 145775
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237
+    },
+    {
+      "path": "mods/ParCool-1.20.1-4.0.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/Fsvx2bdR/versions/MaD724Ko/ParCool-1.20.1-4.0.2.0.jar",
+      "sha1": "41c6c1942042076368661fdae8aa6a64641563f5",
+      "size": 1286966
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "size": 642732
+    },
+    {
+      "path": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
+      "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
+      "size": 671605
+    },
+    {
+      "path": "mods/Placebo-1.20.1-8.6.3.jar",
+      "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/6SkuAGoz/Placebo-1.20.1-8.6.3.jar",
+      "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "size": 282474
+    },
+    {
+      "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar",
+      "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+      "size": 52205
+    },
+    {
+      "path": "mods/Quark-4.0-462.jar",
+      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar",
+      "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+      "size": 14935230
+    },
+    {
+      "path": "mods/RPG_Style_More_Bosses_1.0.3_Forge_1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/eBXJ8CpW/versions/IyGc4Aki/RPG_Style_More_Bosses_1.0.3_Forge_1.20.1.jar",
+      "sha1": "a2aec0baf2b8af1a790da92cc1681391e2253150",
+      "size": 5751685
+    },
+    {
+      "path": "mods/RealisticTorches-1.20.1-3.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/iQYnQIfP/versions/3DzdbCwX/RealisticTorches-1.20.1-3.2.0.jar",
+      "sha1": "5207a4e6bc3630dba413c4acfd5b740105f8e70b",
+      "size": 59290
+    },
+    {
+      "path": "mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/8YcE8y4T/versions/RCsQFeua/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "sha1": "5cc73d3399248300a188164406cd801cc4ae00b3",
+      "size": 2223589
+    },
+    {
+      "path": "mods/ScorchedGuns-0.5.5-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/lDzXAiqs/versions/A57yER99/ScorchedGuns-0.5.5-1.20.1.jar",
+      "sha1": "a65d1a6fea7b44602c63175a8ea9a144d83a5de5",
+      "size": 19173074
+    },
+    {
+      "path": "mods/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/s87jNabF/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+      "sha1": "6f437b9269a171bf88eb6215f0dfab6e614f9f00",
+      "size": 5418741
+    },
+    {
+      "path": "mods/Sounds-2.2.1+1.20.1+forge.jar",
+      "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar",
+      "sha1": "e75686799054958804d711b1b6ceef4d132764b8",
+      "size": 10974911
+    },
+    {
+      "path": "mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "url": "https://cdn.modrinth.com/data/icU5P2Mk/versions/4U6gwadt/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "sha1": "187977cf09972df5773c92b8af5fd342a9d726cb",
+      "size": 2834011
+    },
+    {
+      "path": "mods/TATOS 1.0.1_stable.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/TATOS%201.0.1_stable.jar",
+      "sha1": "1639845cd14e272542b2c2cbcd1da941b455adfd",
+      "size": 69285841
+    },
+    {
+      "path": "mods/TaxCastlePillager+M.1.20.1+ForM.1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/TaxCastlePillager+M.1.20.1+ForM.1.0.1.jar",
+      "sha1": "c526810d463a23d1bfabb603623d0ba39295f567",
+      "size": 467588
+    },
+    {
+      "path": "mods/TerraBlender-forge-1.20.1-3.0.1.11.jar",
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/IfcgopfA/TerraBlender-forge-1.20.1-3.0.1.11.jar",
+      "sha1": "ee0e4263fe48320ee6a79939be7299497f695744",
+      "size": 107575
+    },
+    {
+      "path": "mods/Terralith_1.20.x_v2.5.4.jar",
+      "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar",
+      "sha1": "79e1409b8db4ce86df9d6d6730f09c4bd8860a30",
+      "size": 3156901
+    },
+    {
+      "path": "mods/The-Harvest-1.20.1-1.1.8.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/The-Harvest-1.20.1-1.1.8.jar",
+      "sha1": "07a7b517ae988c9a1a65c30738d546bc2e18af4e",
+      "size": 422744
+    },
+    {
+      "path": "mods/Tridot-1.20.1-1.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/dG9hR9Ly/versions/VCEaeDkQ/Tridot-1.20.1-1.1.3.jar",
+      "sha1": "89d4a4eec88d511ba1c690e1e68e5dd3443141a4",
+      "size": 1508024
+    },
+    {
+      "path": "mods/Valoria-1.20.1-1.1.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/PmIir1iT/versions/zm6wttIY/Valoria-1.20.1-1.1.1.1.jar",
+      "sha1": "59ee7ff8e1c90f7c098e826758a553e655ab887e",
+      "size": 37138070
+    },
+    {
+      "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "size": 370524
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/lRK2ZA9U/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "sha1": "31b386b2dbaa4933e0a10ccdfb25f56da16931a6",
+      "size": 918012
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/kPiQ6v4q/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "sha1": "67a9e1c2ff126ab54cea8e0709d178915243039e",
+      "size": 792381
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/Izqhg3Va/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "sha1": "4e7bf109981593061b8100bc8bf23e1c9bbcbb76",
+      "size": 387111
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/CXQc6EnZ/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "sha1": "0b3c8556983895fea980247bb4d437ca535e7259",
+      "size": 806652
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/kVO57zxB/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
+      "size": 492998
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/2nUEz0zq/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "sha1": "889cd16a93764d1d6af2e2dda5bbc286a2683e7a",
+      "size": 619255
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/SN4iZ7wf/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
+      "size": 1033262
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/kidLKymU/versions/rwiShgsc/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+      "sha1": "3730238c56edca4bb5b2238e1314aec572ced385",
+      "size": 473564
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/mwlYB7rq/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "sha1": "71fee574f920c6b05004f100ba07e9b8d5844169",
+      "size": 179190
+    },
+    {
+      "path": "mods/Zeta-1.0-31.jar",
+      "url": "https://cdn.modrinth.com/data/MVARlG2f/versions/mSER3jBI/Zeta-1.0-31.jar",
+      "sha1": "8c4a8ef0444b53ff408d5b89126285031081d92f",
+      "size": 1006518
+    },
+    {
+      "path": "mods/[1.20.1] SecurityCraft v1.10.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/PhNy7dJx/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar",
+      "sha1": "6184ca6af68a0a4e8ca4dd28a542b5d1a6c2e3ab",
+      "size": 4995865
+    },
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8EwzHQkx/ad_astra-forge-1.20.1-1.15.21.jar",
+      "sha1": "562b28ad84cde481f857562c7991a8750b814e24",
+      "size": 7508773
+    },
+    {
+      "path": "mods/additional_rpg_jewelry-forge-2.3.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/rULzJh3O/versions/1B77ZIoe/additional_rpg_jewelry-forge-2.3.1%2B1.20.1.jar",
+      "sha1": "09a6996d589789c9f950055f7b4ab0e2c1aaf6c2",
+      "size": 242151
+    },
+    {
+      "path": "mods/alexscaves-2.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar",
+      "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
+      "size": 74871657
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar",
+      "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793
+    },
+    {
+      "path": "mods/amendments-1.20-2.2.6.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/nJORWvdh/amendments-1.20-2.2.6.jar",
+      "sha1": "dc79f8c5326b059c8f136765b4bca826147cf2d7",
+      "size": 1315525
+    },
+    {
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428
+    },
+    {
+      "path": "mods/aquamirae-6.API15.jar",
+      "url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/7lX4KLFc/aquamirae-6.API15.jar",
+      "sha1": "40b317060f6984db109fca1e117ba929dcf3d58c",
+      "size": 17317836
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
+      "path": "mods/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/Hw2aD01e/ars_nouveau-1.20.1-4.12.7-all.jar",
+      "sha1": "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170",
+      "size": 12430237
+    },
+    {
+      "path": "mods/artifacts-forge-9.5.19.jar",
+      "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lrLPBSzq/artifacts-forge-9.5.19.jar",
+      "sha1": "91ab6fc2cc208550f7fc37c43e42eba81eff318e",
+      "size": 850974
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.3.44.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/dDN38ae7/balm-forge-1.20.1-7.3.44.jar",
+      "sha1": "dae7e647fc54609e66e4f910931be65776352b72",
+      "size": 561741
+    },
+    {
+      "path": "mods/battle-towers-1.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/LSxfjfLO/versions/EI9Z4kse/battle-towers-1.3.0.jar",
+      "sha1": "da1cca9c9ea88d966754c2763d896af46d6df011",
+      "size": 57406
+    },
+    {
+      "path": "mods/betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/zCh7omyG/versions/vsqxpUo3/betterarcheology-1.2.1-1.20.1.jar",
+      "sha1": "c2cb928bef1c1aa89e90e72b8544b885aceb5d01",
+      "size": 982838
+    },
+    {
+      "path": "mods/block_factorys_bosses-2.0.12-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/1tgsiR3B/block_factorys_bosses-2.0.12-forge-1.20.1.jar",
+      "sha1": "59156b210818ddaf01060d977797efbb41f0a7d1",
+      "size": 20822188
+    },
+    {
+      "path": "mods/blockui-1.20.1-1.0.194-snapshot.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/blockui-1.20.1-1.0.194-snapshot.jar",
+      "sha1": "7081dc1fa98a0d5a86f7f2e125a367f923a5ee52",
+      "size": 391051
+    },
+    {
+      "path": "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+      "url": "https://cdn.modrinth.com/data/1kcHy4de/versions/8wmEhUSt/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar",
+      "sha1": "4d616e1ccef4c55e14b04ca63228d826f4fdda5e",
+      "size": 11839865
+    },
+    {
+      "path": "mods/bossesunleashed-1.0.4-hotfix.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/bossesunleashed-1.0.4-hotfix.jar",
+      "sha1": "21d98e25406e44a580450279c0becbb0aedbe0c5",
+      "size": 8925048
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "size": 157633
+    },
+    {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar",
+      "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
+      "size": 40125
+    },
+    {
+      "path": "mods/call_of_drowner-0.1.0-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/UHdgIXh2/versions/aVTT1NZv/call_of_drowner-0.1.0-forge-1.20.1.jar",
+      "sha1": "87ac1b0da45ab6fd2eba2e05efd1dfa50fc4c4a4",
+      "size": 313796
+    },
+    {
+      "path": "mods/call_of_yucatan-1.0.12-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/RV4ezinu/versions/8foncxoL/call_of_yucatan-1.0.12-forge-1.20.1.jar",
+      "sha1": "d9b4671ec83b41641402429bd2e046e136d2718c",
+      "size": 3607088
+    },
+    {
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457
+    },
+    {
+      "path": "mods/catzilla-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/catzilla-1.0.4.jar",
+      "sha1": "648daa52f0929a0ec60539a7d80caa67250ad35b",
+      "size": 2031258
+    },
+    {
+      "path": "mods/celestisynth-1.20.1-1.3.4-all.jar",
+      "url": "https://cdn.modrinth.com/data/2ocGk7mG/versions/33ckEfkl/celestisynth-1.20.1-1.3.4-all.jar",
+      "sha1": "1e0b3462ff81b012fb7914110e68a386aca3a316",
+      "size": 2664860
+    },
+    {
+      "path": "mods/chatanimation-forge-1.3.5+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/rAIzXsza/chatanimation-forge-1.3.5%2Bmc1.20.1.jar",
+      "sha1": "814537aa51bfe0446f50ac466f6935a5f80c2b22",
+      "size": 1068918
+    },
+    {
+      "path": "mods/cinematiccataclysm-1.0.1-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/1WAsDg6d/versions/VxqBCb8y/cinematiccataclysm-1.0.1-1.20.1.jar",
+      "sha1": "aafb5fd0242d4022cb44a1238bf739d74f20ff5b",
+      "size": 700109
+    },
+    {
+      "path": "mods/citadel-2.6.0-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/mL5pYWWo/citadel-2.6.0-1.20.1.jar",
+      "sha1": "fed1e7cb25232d31aaebe86f4ebafe8d9b663387",
+      "size": 3173174
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/nr1znv5v/cloth-config-11.1.118-forge.jar",
+      "sha1": "c46ca3fba95691873a765f4e79750c615f33e446",
+      "size": 1168391
+    },
+    {
+      "path": "mods/comforts-forge-6.4.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar",
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
+      "size": 382083
+    },
+    {
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/configured-forge-1.20.1-2.2.3.jar",
+      "sha1": "065c2d287a52f52fc8d33d780192325ee6f4b6ae",
+      "size": 418929
+    },
+    {
+      "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/6rPDKAT8/coroutil-forge-1.20.1-1.3.7.jar",
+      "sha1": "7f5f0b62a638b6053c95919cbe8c2bea2e0c93d0",
+      "size": 64187
+    },
+    {
+      "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+      "size": 88752
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
+      "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+      "size": 19170905
+    },
+    {
+      "path": "mods/create_repair-forge-1.20.1-1.3.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/G3K7UdxY/versions/Cu8CVRG9/create_repair-forge-1.20.1-1.3.0-all.jar",
+      "sha1": "7ac132f658abcffb6c1047610fc3139c33d17ee1",
+      "size": 1410563
+    },
+    {
+      "path": "mods/critical_strike-forge-1.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/ilvNBzFn/versions/k4SMWUqD/critical_strike-forge-1.0.4.jar",
+      "sha1": "64df73255d592a1c27ab230f09a0e4d67b2bff54",
+      "size": 771020
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+      "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "size": 398066
+    },
+    {
+      "path": "mods/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/fnAffV0n/versions/e2oirgc2/deeperdarker-forge-1.20.1-1.3.3.jar",
+      "sha1": "12f95fa85c62123140d1962702a97a3bb746bbf5",
+      "size": 17844266
+    },
+    {
+      "path": "mods/default_skill_trees-1.1.jar",
+      "url": "https://cdn.modrinth.com/data/4w7YR25f/versions/Y9zJqtr4/default_skill_trees-1.1.zip",
+      "sha1": "564a1320a4d26de1ad476687ce1920ccd12c142c",
+      "size": 11519
+    },
+    {
+      "path": "mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar",
+      "sha1": "166c70ed9f958aa79c3f30a0bd84e3bf6fc3b47f",
+      "size": 1180558
+    },
+    {
+      "path": "mods/dummmmmmy-1.20-2.0.12-forge.jar",
+      "url": "https://cdn.modrinth.com/data/Adega8YN/versions/c1HMqDvI/dummmmmmy-1.20-2.0.12-forge.jar",
+      "sha1": "3b6da54436955ea2ca6e8891ef69d0f6621ab878",
+      "size": 839685
+    },
+    {
+      "path": "mods/dungeons-and-taverns-3.0.3.f.jar",
+      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar",
+      "sha1": "3f324242f3daf4785a8b9338f228679418f4870a",
+      "size": 13161907
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+      "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
+      "size": 402345
+    },
+    {
+      "path": "mods/eeeabsmobs-1.20.1-0.96.1.jar",
+      "url": "https://cdn.modrinth.com/data/N8MNCv66/versions/Nt4hgndy/eeeabsmobs-1.20.1-0.96.1.jar",
+      "sha1": "dcd55ade7ad755a798c00cf88f05cafdc4159354",
+      "size": 28965063
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+      "size": 1320675
+    },
+    {
+      "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+      "size": 1515076
+    },
+    {
+      "path": "mods/faded_conquest_2-1.3.0B-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/faded_conquest_2-1.3.0B-forge-1.20.1.jar",
+      "sha1": "8a98c253f6902e078d4be205f094f236dc2fd24b",
+      "size": 3987586
+    },
+    {
+      "path": "mods/fantasy-armor-1.3.1-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/oVmpjYQ5/versions/e2QSYfvf/fantasy-armor-1.3.1-1.20.1-forge.jar",
+      "sha1": "270d1b008faf53015a4223923671d9e375e9ff81",
+      "size": 589202
+    },
+    {
+      "path": "mods/fantasy-weapons-1.0-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/rsBLWxD0/versions/dTou3aLk/fantasy-weapons-1.0-1.20.1-forge.jar",
+      "sha1": "e9b4cc8a693a4c2377d4ddfdc565322913222452",
+      "size": 246734
+    },
+    {
+      "path": "mods/fdbosses-3.1.0.3-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/7fqQYwaC/versions/EjoywCe2/fdbosses-3.1.0.3-1.20.1.jar",
+      "sha1": "a7ff3fc0cc6af1222b95c6a1ccc46e8961a834a9",
+      "size": 26329336
+    },
+    {
+      "path": "mods/fdlib-1.0.9-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/LcmGQfK2/versions/n2vnfPiV/fdlib-1.0.9-1.20.1.jar",
+      "sha1": "6918e71d62fa103c55f9184ff619351f87f49c42",
+      "size": 1647611
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "size": 123034
+    },
+    {
+      "path": "mods/foolish-1.3.0 patched.jar",
+      "url": "https://cdn.modrinth.com/data/gYkm0y7k/versions/ZKttU4KU/foolish-1.3.0%20patched.jar",
+      "sha1": "e1c74dcb7d8f92960b7d06b281d65f34e0299101",
+      "size": 133629630
+    },
+    {
+      "path": "mods/framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+      "size": 383868
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7+1.20.1+forge.jar",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/53kg5uoF/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "sha1": "1a4f550dea4fb6316a96591dc46a463ee1f6602b",
+      "size": 2397175
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/HVdLnQMI/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha1": "fead1d1645e16cfa02f39113481ead355230f8fd",
+      "size": 1039047
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
+      "sha1": "50e1407869ef0e909e3bdda9328b8bd7db03fdc0",
+      "size": 1038209
+    },
+    {
+      "path": "mods/graveyard-FORGE-4.0.1+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/U1jdQuSf/versions/MSk4YVNp/graveyard-FORGE-4.0.1%2Bmc1.20.1.jar",
+      "sha1": "e11d7055d8bfab6ea477e1f61b7252fa8ef04b68",
+      "size": 10999983
+    },
+    {
+      "path": "mods/grim_and_bleak-1.1.4-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/RpyTo7KH/versions/jDJ0Iinr/grim_and_bleak-1.1.4-forge-1.20.1.jar",
+      "sha1": "65e62a4e4f724a7fad4d1ce8ef27c5663657de93",
+      "size": 60523582
+    },
+    {
+      "path": "mods/gtbcs_spell_lib-2.2.0-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/wXoQ9BqX/versions/wacolmKQ/gtbcs_spell_lib-2.2.0-1.20.1.jar",
+      "sha1": "753917963574a7087fa10999b7646e2efe5772b2",
+      "size": 293807
+    },
+    {
+      "path": "mods/hs_bosses-0.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/hs_bosses-0.0.3.jar",
+      "sha1": "c2cf5a0ba09bfb4770884c1541ef048c5ee661a2",
+      "size": 204754
+    },
+    {
+      "path": "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "url": "https://cdn.modrinth.com/data/LVnvHVBp/versions/EzN8KQYF/iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
+      "size": 21854126
+    },
+    {
+      "path": "mods/illageandspillage-1.1.0.jar",
+      "url": "https://cdn.modrinth.com/data/kLoMCc4b/versions/4Uqwd2tt/illageandspillage-1.1.0.jar",
+      "sha1": "bf050cbb59d95a1ac7ebc9e913d6c8c2408f380c",
+      "size": 27654116
+    },
+    {
+      "path": "mods/immersive_armors-1.7.2+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/ZPdUJXFG/immersive_armors-1.7.2%2B1.20.1-forge.jar",
+      "sha1": "9c4fb7f1287470353125a9c4b61047c7009e1949",
+      "size": 1264260
+    },
+    {
+      "path": "mods/immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "url": "https://cdn.modrinth.com/data/jkskOO9i/versions/Fl2lADP9/immersive_weathering-1.20.1-2.0.5-forge.jar",
+      "sha1": "d89ad3793ffb97df27f415ac6cc07c61460dd9f3",
+      "size": 2269048
+    },
+    {
+      "path": "mods/integrated_api-forge-1.20.1-1.9.1.jar",
+      "url": "https://cdn.modrinth.com/data/V6fKbpBN/versions/Pt3ikLE2/integrated_api-forge-1.20.1-1.9.1.jar",
+      "sha1": "25411c60a6e6fc93c323bf355b103397e8d02ae5",
+      "size": 713270
+    },
+    {
+      "path": "mods/integrated_patches v1.2.0-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Yysh5NsL/versions/pDRwkHsU/integrated_patches%20v1.2.0-1.20.1.jar",
+      "sha1": "732c269e87a1d77f4705a6e3d0f4f6b953a880ff",
+      "size": 60922
+    },
+    {
+      "path": "mods/ironchest-1.20.1-14.4.4.jar",
+      "url": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar",
+      "sha1": "4b2dd0f581e40f8bd6f6e63b2d84c06dfde2c4eb",
+      "size": 311290
+    },
+    {
+      "path": "mods/irons_lib-1.20.1-2.3.0.jar",
+      "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/IptroA3L/irons_lib-1.20.1-2.3.0.jar",
+      "sha1": "3a6fecda42c8469580ee82d80c0bedcec775a150",
+      "size": 1144018
+    },
+    {
+      "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar",
+      "url": "https://cdn.modrinth.com/data/s4OWxYQQ/versions/hZaEegS9/irons_spellbooks-1.20.1-3.16.3.jar",
+      "sha1": "726345aa215756bd30b7cf8c338c9ae6bbc59799",
+      "size": 15570397
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar",
+      "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
+      "size": 1778129
+    },
+    {
+      "path": "mods/jewelry-forge-2.4.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sNJAIjUm/versions/xswBYA4q/jewelry-forge-2.4.0%2B1.20.1.jar",
+      "sha1": "a1ad6b07d79933cc8b8c48651504c1d85033b97f",
+      "size": 508734
+    },
+    {
+      "path": "mods/knightlib-forge-1.20.1-2.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/knightlib-forge-1.20.1-2.0.5.jar",
+      "sha1": "fc69f6c2c9e5a501f46d190ef87edae178f06162",
+      "size": 1081343
+    },
+    {
+      "path": "mods/knightquest-forge-1.20.1-1.9.7.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/knightquest-forge-1.20.1-1.9.7.jar",
+      "sha1": "83edc522d45c9927d659bf10d212674b57dc46dd",
+      "size": 5186333
+    },
+    {
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/Zsh14XeQ/kotlinforforge-4.12.0-all.jar",
+      "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
+      "size": 7442998
+    },
+    {
+      "path": "mods/landmines-1.0.7-forge-mc1.20.jar",
+      "url": "https://cdn.modrinth.com/data/umx3sWHn/versions/8MrwFDgi/landmines-1.0.7-forge-mc1.20.jar",
+      "sha1": "c157592e2a61e14906878ece179ae1bebddb7649",
+      "size": 100946
+    },
+    {
+      "path": "mods/legendarymonsters-2.0.6 MC 1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/9d9Bkqva/versions/rdafCGDn/legendarymonsters-2.0.6%20MC%201.20.1.jar",
+      "sha1": "fb5f8c99c39581f78deeaa4d6919dcdc89e71ee6",
+      "size": 32223179
+    },
+    {
+      "path": "mods/lionfishapi-2.7.jar",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/G3m5juql/lionfishapi-2.7.jar",
+      "sha1": "73d64e7acbea5934617172a5210c1d2a53443812",
+      "size": 122522
+    },
+    {
+      "path": "mods/lionfishapi-3.0.jar",
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/CPftDBcY/lionfishapi-3.0.jar",
+      "sha1": "79d0404f87fa066480b18c844c1e0b1c5f5475f9",
+      "size": 101931
+    },
+    {
+      "path": "mods/lostcities-1.20-7.5.7.jar",
+      "url": "https://cdn.modrinth.com/data/8VDCUS3b/versions/zDRDuewL/lostcities-1.20-7.5.7.jar",
+      "sha1": "a92d8e537aa86297468629503f895c102ed132e5",
+      "size": 1442179
+    },
+    {
+      "path": "mods/macabre-1.0.1-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/macabre-1.0.1-forge-1.20.1.jar",
+      "sha1": "12da98d1d2350fda85d95da51709fe2e6628bf70",
+      "size": 81022239
+    },
+    {
+      "path": "mods/mahoutsukai-1.20.1-v1.34.81.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/mahoutsukai-1.20.1-v1.34.81.jar",
+      "sha1": "4ab9ae0e4b73b13ce7f93a8e26896d22558289d7",
+      "size": 4442849
+    },
+    {
+      "path": "mods/minecolonies-1.20.1-1.1.1317-snapshot.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/minecolonies-1.20.1-1.1.1317-snapshot.jar",
+      "sha1": "2e74cd6ccd02a5b3f57f36ac58c1ca40c07e316b",
+      "size": 78223055
+    },
+    {
+      "path": "mods/mizs_broom-1.0.4-forge-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/mizs_broom-1.0.4-forge-1.20.1.jar",
+      "sha1": "fe9c83098f8980434e63c0fc0dc5695cc5347dfb",
+      "size": 109205
+    },
+    {
+      "path": "mods/modernfix-forge-5.27.91+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/OM5gX4LT/modernfix-forge-5.27.91%2Bmc1.20.1.jar",
+      "sha1": "195d53d299a93c418c90b672c2640b4e41623f96",
+      "size": 1012942
+    },
+    {
+      "path": "mods/monsterexpansion-1.20.1-v0.6.3.jar",
+      "url": "https://cdn.modrinth.com/data/OSlNyqiW/versions/TNEiR1FM/monsterexpansion-1.20.1-v0.6.3.jar",
+      "sha1": "f560120e383cf7e456e7ef33e3693f36174de4f0",
+      "size": 13577103
+    },
+    {
+      "path": "mods/moonlight-1.20-2.16.39-forge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/rF6052yd/moonlight-1.20-2.16.39-forge.jar",
+      "sha1": "12405de298c0d6c8ba53effdc5c8f28edee3aadc",
+      "size": 1423451
+    },
+    {
+      "path": "mods/more_rpg_library-forge-2.7.3+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/Wkc3lwHo/versions/qtzjNIll/more_rpg_library-forge-2.7.3%2B1.20.1.jar",
+      "sha1": "a635e34fe048a4641ca87769046fd4f162912102",
+      "size": 2007891
+    },
+    {
+      "path": "mods/moreprotectables-1.20.1-1.2.3.10.jar",
+      "url": "https://cdn.modrinth.com/data/KnaNFo7k/versions/4mxLvVmY/moreprotectables-1.20.1-1.2.3.10.jar",
+      "sha1": "31a4e9504e1e8fc82496043d0202f1c1ea744f79",
+      "size": 222837
+    },
+    {
+      "path": "mods/mowziesmobs-1.8.2.jar",
+      "url": "https://cdn.modrinth.com/data/BFbX9xcm/versions/acYEfsJa/mowziesmobs-1.8.2.jar",
+      "sha1": "25ffcd175cc03650e38e60d3cb7b3e038d9d3345",
+      "size": 36033850
+    },
+    {
+      "path": "mods/naturalist-2.0.9-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/b9qy62Lr/naturalist-2.0.9-forge-1.20.1.jar",
+      "sha1": "b3e27b2766ec4fec8aae6ded46566e9a518681dd",
+      "size": 11420588
+    },
+    {
+      "path": "mods/nordic_structures-1.7.5-neoforge-1.21.4.jar",
+      "url": "https://cdn.modrinth.com/data/IbXFBZcX/versions/ilxW3o8P/nordic_structures-1.7.5-neoforge-1.21.4.jar",
+      "sha1": "4316c9f704ea2cb995f0b9790d3c41753e72ac3d",
+      "size": 630519
+    },
+    {
+      "path": "mods/obscure_api-18.jar",
+      "url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar",
+      "sha1": "d395153341a9a732fc80463c475b202d78675e28",
+      "size": 1128392
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "size": 2851119
+    },
+    {
+      "path": "mods/origins-forge-1.20.1-1.10.0.9-all.jar",
+      "url": "https://cdn.modrinth.com/data/jl3m2lR9/versions/vynFXywM/origins-forge-1.20.1-1.10.0.9-all.jar",
+      "sha1": "71af2b5fa4d2905ab71ca7c488a508dba277f109",
+      "size": 2307868
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "size": 181437
+    },
+    {
+      "path": "mods/puffish_attributes-0.8.2-1.20-forge.jar",
+      "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/IG5KY4Qf/puffish_attributes-0.8.2-1.20-forge.jar",
+      "sha1": "c6ff07c4ee3111b480fee577cb98c3671cf063b8",
+      "size": 237815
+    },
+    {
+      "path": "mods/puffish_skills-0.19.2-1.20-forge.jar",
+      "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/zfbPzmtb/puffish_skills-0.19.2-1.20-forge.jar",
+      "sha1": "7646e1a377506dcdd6d3b0806321ba429392155a",
+      "size": 646512
+    },
+    {
+      "path": "mods/puffish_skills_origins-0.2.1-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/G2gG8giX/versions/oZhcvoU9/puffish_skills_origins-0.2.1-1.20.1-forge.jar",
+      "sha1": "fabd4aa3927e339516c0d5dbe22c751afa48342a",
+      "size": 14693
+    },
+    {
+      "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+      "url": "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar",
+      "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+      "size": 713454
+    },
+    {
+      "path": "mods/ranged_weapon_api-forge-2.3.4+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/2Md2M2d5/ranged_weapon_api-forge-2.3.4%2B1.20.1.jar",
+      "sha1": "57f94d1fb5ec020439b5f814d7f21ceb37953941",
+      "size": 794579
+    },
+    {
+      "path": "mods/repurposed_structures-7.1.25+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/QDNS5oAT/versions/GgUh2Zx7/repurposed_structures-7.1.25%2B1.20.1-forge.jar",
+      "sha1": "a1534373cf9bcd237d5c444ebdfdbd9a04584006",
+      "size": 8236925
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+      "size": 136923
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "size": 432753
+    },
+    {
+      "path": "mods/rootoffear-1.20.1-1.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/44mGKYce/versions/VsHmNiXf/rootoffear-1.20.1-1.0.10.jar",
+      "sha1": "c9f7bf5d7a5aa5e80e5732eb8806d5b9d5623e2c",
+      "size": 3539711
+    },
+    {
+      "path": "mods/rpg_companions_tiny_dragons-0.0.5-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/XzVY6HIJ/versions/Rg7E2JyZ/rpg_companions_tiny_dragons-0.0.5-forge-1.20.1.jar",
+      "sha1": "61ddffdd2f65e6ea7334b0320fc964b15f6bf238",
+      "size": 961956
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/F06DXCMX/rubidium-extra-0.5.4.4%2Bmc1.20.1-build.131.jar",
+      "sha1": "bb422d5626bf69841e444a3e545c8e71b6928cf8",
+      "size": 568608
+    },
+    {
+      "path": "mods/runes-forge-1.3.2+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/j6Djy4m6/runes-forge-1.3.2%2B1.20.1.jar",
+      "sha1": "81f5c0bb1c8a29636e6c4c7f3034130155a7b8db",
+      "size": 355981
+    },
+    {
+      "path": "mods/saturn-mc1.20.1-0.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar",
+      "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
+      "size": 92319
+    },
+    {
+      "path": "mods/shieldexp-forge-1.20.1-1.3.7.jar",
+      "url": "https://cdn.modrinth.com/data/sjxWxSao/versions/oDx7Tmoh/shieldexp-forge-1.20.1-1.3.7.jar",
+      "sha1": "087e0e34864dc4f077d78026b58d440859591b37",
+      "size": 419824
+    },
+    {
+      "path": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/Na6e94J1/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
+      "sha1": "7e8b9cc255f57df9ed00b507435308d600aebc24",
+      "size": 15765792
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/6NG8MGVh/skinlayers3d-forge-1.11.4-mc1.20.1.jar",
+      "sha1": "7091528b7228e12602e097afa14f34629067afaf",
+      "size": 2096322
+    },
+    {
+      "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
+      "sha1": "3fd79132dba444bd109b5de4ad75dee06a48e130",
+      "size": 41044
+    },
+    {
+      "path": "mods/sons-of-sins-1.20.1-2.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/l7YxzukZ/versions/85MERhDl/sons-of-sins-1.20.1-2.1.6.jar",
+      "sha1": "19da6eb105577e2b0e26a323bb98d681061a5db0",
+      "size": 4358193
+    },
+    {
+      "path": "mods/sophisticatedbackpacks-1.20.1-3.26.19.2239.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/VjliRs3R/sophisticatedbackpacks-1.20.1-3.26.19.2239.jar",
+      "sha1": "cc7168866b086ccdec5fe77ad7a9a0a6d02b798e",
+      "size": 1232150
+    },
+    {
+      "path": "mods/sophisticatedcore-1.20.1-1.5.29.2459.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/dICsXsDi/sophisticatedcore-1.20.1-1.5.29.2459.jar",
+      "sha1": "5767e937c295660f75f9531b311fa33885739143",
+      "size": 1774900
+    },
+    {
+      "path": "mods/spark-1.10.53-forge.jar",
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar",
+      "sha1": "231fb325368c0660954f47bfb03493f5246fa4d1",
+      "size": 3114590
+    },
+    {
+      "path": "mods/spartangobber-1.20.1-1.0.0.jar",
+      "url": "https://cdn.modrinth.com/data/sGBg7NcN/versions/ZhgnFJ0a/spartangobber-1.20.1-1.0.0.jar",
+      "sha1": "d131834761bc36f11623ef66d7fc4b7dc764be65",
+      "size": 244798
+    },
+    {
+      "path": "mods/spartantoolkit-1.20.1-1.6.1.jar",
+      "url": "https://cdn.modrinth.com/data/7R2BqYPs/versions/dUvEozRY/spartantoolkit-1.20.1-1.6.1.jar",
+      "sha1": "46c73554ce8282057824fae275f4f0cb0220c029",
+      "size": 87097
+    },
+    {
+      "path": "mods/spell_engine-forge-1.10.10+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/jZqwFTXe/spell_engine-forge-1.10.10%2B1.20.1.jar",
+      "sha1": "091f75239af7503c1960e3fa197021b5c5694d4b",
+      "size": 5317252
+    },
+    {
+      "path": "mods/spell_power-forge-1.6.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/8ooWzSQP/versions/ko7p47uf/spell_power-forge-1.6.1%2B1.20.1.jar",
+      "sha1": "11073d202f70e543d46ceda95e264652ebafd558",
+      "size": 233501
+    },
+    {
+      "path": "mods/stalwart-dungeons-1.20.1-1.2.8.jar",
+      "url": "https://cdn.modrinth.com/data/BCLngNKp/versions/vgD645b7/stalwart-dungeons-1.20.1-1.2.8.jar",
+      "sha1": "da49b50013deee55861e81664096818357d563ac",
+      "size": 1049721
+    },
+    {
+      "path": "mods/structure_pool_api-forge-1.2.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/NJgGaMco/structure_pool_api-forge-1.2.1%2B1.20.1.jar",
+      "sha1": "4a90478fd7c3cd0f4321ca3e9a2f4baec11d84c1",
+      "size": 761800
+    },
+    {
+      "path": "mods/structurize-1.20.1-1.0.825-snapshot.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/structurize-1.20.1-1.0.825-snapshot.jar",
+      "sha1": "cf4739ef3625989ce0cc785d2f6bc14ea0dfbc4c",
+      "size": 1129671
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+      "size": 206584
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/gpZw1vK8/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar",
+      "sha1": "60137bb03fe7dec06dad5ad88d729e993c619df4",
+      "size": 599911
+    },
+    {
+      "path": "mods/supplementaries-1.20-3.1.44-forge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/foXRPXFH/supplementaries-1.20-3.1.44-forge.jar",
+      "sha1": "01e9bd4c264c6e04c7613095438bf0eee657b16f",
+      "size": 13686603
+    },
+    {
+      "path": "mods/sweet_calamity-1.0.1.jar",
+      "url": "https://cdn.modrinth.com/data/1774eNIB/versions/xghWX7Hd/sweet_calamity-1.0.1.jar",
+      "sha1": "200b32c897332b1bba92569f864b9657a0235cfe",
+      "size": 14759630
+    },
+    {
+      "path": "mods/tacz-forge-1.20.1-1.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/QGCbNkTy/tacz-forge-1.20.1-1.2.0.jar",
+      "sha1": "0b91b2d09f724cdf412da93370cd57d311e78e67",
+      "size": 69001578
+    },
+    {
+      "path": "mods/tdmweaponsreforged-1.2.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/tdmweaponsreforged-1.2.jar",
+      "sha1": "a77b457816fd676a5eb9070afd0fd2d5143cbc74",
+      "size": 393627
+    },
+    {
+      "path": "mods/terramity-0.9.8-forge-1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/RHN9OPTT/versions/cjrb1wmA/terramity-0.9.8-forge-1.20.1.jar",
+      "sha1": "898ef261a7d05e844dc879f38b2f37333765704a",
+      "size": 27024132
+    },
+    {
+      "path": "mods/the_bumblezone-7.15.2+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/38tpSycf/versions/XiIv5rDL/the_bumblezone-7.15.2%2B1.20.1-forge.jar",
+      "sha1": "166ea07d23857c357712a7d59ff671927357f7c6",
+      "size": 83305288
+    },
+    {
+      "path": "mods/tntexpansion-forge-1.20.1-4.6.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/tntexpansion-forge-1.20.1-4.6.1.jar",
+      "sha1": "462224948438144e7fe21a882a0a940e67404087",
+      "size": 1157857
+    },
+    {
+      "path": "mods/tombstone-1.20.1-9.1.5.jar",
+      "url": "https://cdn.modrinth.com/data/YT5K34AB/versions/nTAliy2r/tombstone-1.20.1-9.1.5.jar",
+      "sha1": "0d9cb76b6162c672a7aca40771e5749a97ebb451",
+      "size": 2560746
+    },
+    {
+      "path": "mods/tonicore-forge-1.20.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/tonicore-forge-1.20.1-1.0.0.jar",
+      "sha1": "188621923d64fbe17a6e40ebe61c37c67e039c88",
+      "size": 107576
+    },
+    {
+      "path": "mods/tonitnt-forge-1.20.1-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/tonitnt-forge-1.20.1-1.5.0.jar",
+      "sha1": "810e170c2a3eba64d8d84158d2c130b751ff879d",
+      "size": 326710
+    },
+    {
+      "path": "mods/too_many_bows-forge-4.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/FOiJ92uI/versions/6IizeNRS/too_many_bows-forge-4.1.2.jar",
+      "sha1": "08b327c4f4db686ef5e215cdf86cb5e5596dac07",
+      "size": 1034336
+    },
+    {
+      "path": "mods/touhoulittlemaid-1.5.3-forge+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/R0bDWFAW/versions/g1SKoGQJ/touhoulittlemaid-1.5.3-forge%2Bmc1.20.1.jar",
+      "sha1": "9097a2a57e7ed639bca072dd62e4a9257e86db89",
+      "size": 24413134
+    },
+    {
+      "path": "mods/travelersbackpack-forge-1.20.1-9.1.58.jar",
+      "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/KC2rTuNy/travelersbackpack-forge-1.20.1-9.1.58.jar",
+      "sha1": "bfd58b247f803b52efe3b1aa11ca46460deb9a63",
+      "size": 1435341
+    },
+    {
+      "path": "mods/traveloptics-7.2.0-1.20.1.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/traveloptics-7.2.0-1.20.1.jar",
+      "sha1": "6d42424af8083ad6881ff145bab5d85eb323b1cb",
+      "size": 41663156
+    },
+    {
+      "path": "mods/tru.e-ending-v1.1.0c.jar",
+      "url": "https://cdn.modrinth.com/data/MCnBYP0b/versions/TO1g4SDa/tru.e-ending-v1.1.0c.jar",
+      "sha1": "ab318879312d428eda430006efd14911a15ddd44",
+      "size": 5525883
+    },
+    {
+      "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "url": "https://raw.githubusercontent.com/Dev-Davey04/FlexMine-Releases/main/server-pack/mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f",
+      "size": 23332091
+    },
+    {
+      "path": "mods/veinmining-forge-1.5.0+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/bRAPbNyF/versions/qV4B4EMI/veinmining-forge-1.5.0%2B1.20.1.jar",
+      "sha1": "e484d2f2556bb638c4c3da5e5542eae70035f98a",
+      "size": 230264
+    },
+    {
+      "path": "mods/villagertradingplus-forge-mc1.20.1-1.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/DhOXUfnP/versions/TGuBx5Qt/villagertradingplus-forge-mc1.20.1-1.1.1.jar",
+      "sha1": "e5ff2f088cc2b8a257bd6cb496ce577bfe3634db",
+      "size": 255445
+    },
+    {
+      "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Y0IgdaoP/waystones-forge-1.20.1-14.1.21.jar",
+      "sha1": "61952fb248a9689fe46d5ffb223fcc41e31fef1a",
+      "size": 536782
+    },
+    {
+      "path": "mods/witherreincarnated-1.20.1-1.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/YDc8cRWF/versions/Z3UVVtzh/witherreincarnated-1.20.1-1.0.5.jar",
+      "sha1": "a03dac62ffce65e49b0fa7f6c6d5b33a82ea1dd2",
+      "size": 12807443
+    },
+    {
+      "path": "mods/xaerominimap-forge-1.20.1-26.6.0.jar",
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/dB6E0CY9/xaerominimap-forge-1.20.1-26.6.0.jar",
+      "sha1": "ee73886f2f5f27bf28cffa7cc8f2b9b4540df2aa",
+      "size": 2196194
+    },
+    {
+      "path": "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/KtEupJvB/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+      "sha1": "6715c1d3758a3805589d82c41dc581537fe185cd",
+      "size": 1429424
+    },
+    {
+      "path": "mods/xptome-1.20.1-2.2.1.jar",
+      "url": "https://cdn.modrinth.com/data/AnpW69o3/versions/SYfBGaA3/xptome-1.20.1-2.2.1.jar",
+      "sha1": "078831ad10ea6fa5750e3c6049915beca8401a88",
+      "size": 22972
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/sCWgXDYQ/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+      "size": 1105891
+    },
+    {
+      "path": "mods/zombieawareness-1.20.1-1.13.1.jar",
+      "url": "https://cdn.modrinth.com/data/mMTOWOaA/versions/vmo9rLxO/zombieawareness-1.20.1-1.13.1.jar",
+      "sha1": "173c30c8918da57be9398b3687ea19a81455c2c1",
+      "size": 291139
+    }
+  ]
+}
